@@ -8,10 +8,10 @@ most of my stuff is german
 other things are in English (readme.md files)
 I try my best ... I am bad in both languages
 
-more about me:
-my unofficial birthday: 20.03.
-hobbies: ride downhill, design, create stupid things, coding
-I hate: social activity, moments I can't do stuff
+more about me:<br>
+my unofficial birthday: 20.03.<br>
+hobbies: ride downhill, design, create stupid things, coding <br>
+I hate: social activity, moments I can't do stuff <br>
 
 'weird' facts about me: 
 - I use my own keyboard layout (it's  qwerty with german keys on AltGr)
