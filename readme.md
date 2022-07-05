@@ -21,4 +21,4 @@ I hate: social activity, moments I can't do stuff <br>
 - I am in Pain with other humans
 
 #### for questions follow my discord:
-https://discord.gg/bfPKjej234
+> https://discord.gg/bfPKjej234
