@@ -14,11 +14,11 @@ hobbies: ride downhill, design, create stupid things, coding <br>
 I hate: social activity, moments I can't do stuff <br>
 
 ## 'weird' facts about me: 
-- I use my own keyboard layout (it's  qwerty with german keys on AltGr)
-- I code stuff  that nobody needs I code stuff that nobody needs
-- I'm Autistic and Trans 
-- I use Debian because my PC isn't strong and windows are garbage 
-- I am in Pain with other humans
+> - I use my own keyboard layout (it's  qwerty with german keys on AltGr)
+> - I code stuff  that nobody needs I code stuff that nobody needs
+> - I'm Autistic and Trans 
+> - I use Debian because my PC isn't strong and windows are garbage 
+> - I am in Pain with other humans
 
 #### for questions follow my discord:
 > https://discord.gg/bfPKjej234
