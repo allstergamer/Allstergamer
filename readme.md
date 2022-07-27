@@ -22,3 +22,7 @@ I hate: social activity, moments I can't do stuff <br>
 
 #### for questions follow my discord:
 > https://discord.gg/bfPKjej234
+
+
+## my favorite repos
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allstergamer&exclude_repo=software-start,my-keyboard-layout&layout=compact&text_color=8350cc&title_color=d785f2&bg_color=0D1117&icon_color=490161)](https://github.com/anuraghazra/github-readme-stats)
