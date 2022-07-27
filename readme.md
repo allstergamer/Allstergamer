@@ -26,3 +26,4 @@ I hate: social activity, moments I can't do stuff <br>
 
 ## my favorite repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allstergamer&repo=software-start)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/allstergamer/software-start))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allstergamer&repo=my-keyboard-layout)]([https://github.com/allstergamer/my-keyboard-layout](https://github.com/allstergamer/my-keyboard-layout))
