@@ -24,6 +24,6 @@ I hate: social activity, moments I can't do stuff <br>
 > https://discord.gg/bfPKjej234
 
 
-## my favorite repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allstergamer&repo=software-start&text_color=8350cc&title_color=d785f2&bg_color=0D1117&icon_color=490161)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allstergamer&repo=my-keyboard-layout&text_color=8350cc&title_color=d785f2&bg_color=0D1117&icon_color=490161)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+## placeholder:
+
+![Lisa](https://user-images.githubusercontent.com/63209264/181497722-0564ea6a-a46c-46e8-a8aa-1a096e7772bf.png)
