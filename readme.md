@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=allstergamer&label=Profile%20views&color=0e75b6&style=flat" alt="allstergamer" /> </p>
+
 ![lisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=allstergamer&show_icons=true&text_color=8350cc&title_color=d785f2&bg_color=0D1117&icon_color=490161)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allstergamer&layout=compact&text_color=8350cc&title_color=d785f2&bg_color=0D1117&icon_color=490161&hide=inno&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,7 +25,12 @@ I hate: social activity, moments I can't do stuff <br>
 #### for questions follow my discord:
 > https://discord.gg/bfPKjej234
 
+## Trophy:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allstergamer" alt="allstergamer" /></a> </p>
 
-## placeholder:
+## Other stuff:
+<p align="left">
+<a href="https://instagram.com/4llst3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4llst3r" height="30" width="40" /></a>
+</p>
 
-![Lisa](https://user-images.githubusercontent.com/63209264/181497722-0564ea6a-a46c-46e8-a8aa-1a096e7772bf.png)
+
