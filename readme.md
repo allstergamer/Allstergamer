@@ -32,6 +32,6 @@ I hate: social activity, moments I can't do stuff <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allstergamer&theme=dark" alt="allstergamer" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/allster"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="allster" /></a></p><br><br>
+<p><a href="https://ko-fi.com/allster"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="allster" /></a></p><br><br><br><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allstergamer" alt="allstergamer" /></a> </p>
 
