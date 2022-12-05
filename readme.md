@@ -35,3 +35,5 @@
 <p align="center"><a href="https://ko-fi.com/allster"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="allster" /></a></p><br><br><br><br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allstergamer" alt="allstergamer" /></a> </p>
 
+<a href="https://www.paypal.com/pools/c/8PABSvq3au"> donate me fro a new PC (04.01.2023)</a>
+
